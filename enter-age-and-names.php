@@ -2,6 +2,7 @@
 $a=0;
 if(isset($_POST['submit'])){
     $a = 1;
+    //mbega aga project keza
 }
 ?>
 <!DOCTYPE html>
